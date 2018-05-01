@@ -1,2 +1,5 @@
-# EOS-GlobalLocationLog
-A Smart contract that captures global location points for assets in motion
+# EOS Global Asset Tracking
+
+An EOS Dapp using smart contracts to track assets as they travel across the globe.
+
+Can be used for packages, shipping, military, etc...
